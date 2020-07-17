@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nick-web-portfolio/static/css/main.5f361e03.chunk.css",
+    "main.js": "/nick-web-portfolio/static/js/main.adadb0c5.chunk.js",
+    "main.js.map": "/nick-web-portfolio/static/js/main.adadb0c5.chunk.js.map",
+    "runtime-main.js": "/nick-web-portfolio/static/js/runtime-main.d60c25ba.js",
+    "runtime-main.js.map": "/nick-web-portfolio/static/js/runtime-main.d60c25ba.js.map",
+    "static/js/2.cbccc68a.chunk.js": "/nick-web-portfolio/static/js/2.cbccc68a.chunk.js",
+    "static/js/2.cbccc68a.chunk.js.map": "/nick-web-portfolio/static/js/2.cbccc68a.chunk.js.map",
+    "index.html": "/nick-web-portfolio/index.html",
+    "precache-manifest.3168f17a6739b2f9f98d82a16c676f1f.js": "/nick-web-portfolio/precache-manifest.3168f17a6739b2f9f98d82a16c676f1f.js",
+    "service-worker.js": "/nick-web-portfolio/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/nick-web-portfolio/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.cbccc68a.chunk.js.LICENSE.txt": "/nick-web-portfolio/static/js/2.cbccc68a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/nick-web-portfolio/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d60c25ba.js",
+    "static/js/2.cbccc68a.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.adadb0c5.chunk.js"
+  ]
+}
